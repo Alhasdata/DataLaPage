@@ -6,5 +6,5 @@ Analyses des Kpis de ventes et des comportements clients d'une librairie en lign
 - 1 Notebook qui traite l'analyse des indicateurs de vente.
 - 1 Notebook qui traite l'analyse des comportemets clients.
 
-### Techno 
+### Technos
 Python, Jupyter, Pandas, Numpy, Seaborn, Matplotlib,  SciPy, ResearchPpy, Itertools.
