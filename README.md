@@ -8,3 +8,5 @@ Analyses des Kpis de ventes et des comportements clients d'une librairie en lign
 
 ### Technos
 Python, Jupyter, Pandas, Numpy, Seaborn, Matplotlib,  SciPy, ResearchPpy, Itertools.
+
+[Git](https://github.com/Alhasdata/DataLaPage)
