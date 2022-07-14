@@ -1,12 +1,28 @@
-# DataLaPage
-Analyses des Kpis de ventes et des comportements clients d'une librairie en ligne (Analyses bivariées, tests statistiques)
+# Marketing Analysis with Python
 
-## Contenu du dossier
-- 1 Notbook qui traite l'exploration et le nettoyage des données.
-- 1 Notebook qui traite l'analyse des indicateurs de vente.
-- 1 Notebook qui traite l'analyse des comportemets clients.
+In this project we analyzed tne Turnover & the customer's behavior of an online bookstore.
 
-### Technos
-Python, Jupyter, Pandas, Numpy, Seaborn, Matplotlib,  SciPy, ResearchPpy, Itertools.
 
-[Git](https://github.com/Alhasdata/DataLaPage)
+## [Data cleaning - Data exploration](./1_Exploration_Nettoyage.ipynb)
+
+- Missing values cleaning
+- Duplicated cleaning
+- Outliers detection/ Analysis
+
+<img alt="MySQL" width="60%" src="./outliers.png" style="padding-right:10px;" />
+
+
+## [Turnover Analysis](./2_Analyse_des_indicateurs_de_vente.ipynb)
+- Turnover distrubution over clients and products categories.
+- Turnover Evolution
+- Rolling turnover
+- Top sales
+<img alt="MySQL" width="80%" src="./moyennemob.png" style="padding-right:10px;" />
+
+
+## [Customer behavior Analysis](./3_Analyse_comportements_clients.ipynb)
+- chi-squared test
+- Spearman test
+- ANOVA test
+
+<img alt="MySQL" width="100%" src="./matrix.png" style="padding-right:10px;" />
